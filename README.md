@@ -15,14 +15,14 @@ Entscheidungen und Massnahmen sind als Issues mit GitHub dokumentiert.
 
 ## Repository-Organisation
 
-Im Repository befinden sich die README.md Datei, der Ordner code, der Ordner daten und der Ordner ergebnisse. Die Organisation der Ordner ist wie folgt:
+Im Repository befinden sich die README.md Datei, der Ordner code, der Ordner data und der Ordner results. Die Organisation der Ordner ist wie folgt:
 
 ### Code
 
 
 ### Daten
 
-- `oasis_longitudinal_demographics.xlsx`: Die Rohdaten liegen in der Excel Datei vor. Die Daten stammen von der Washington University in St. Louis von der folgende Website: https://sites.wustl.edu/oasisbrains/home/oasis-2/
+- `data/oasis_longitudinal_demographics.xlsx`: Die Rohdaten liegen in der Excel Datei vor. Die Daten stammen von der Washington University in St. Louis von der folgende Website: https://sites.wustl.edu/oasisbrains/home/oasis-2/
 
 ### Ergebnisse 
 
